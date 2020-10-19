@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "lib": [
+            "ES2018"
+        ],
+        "module": "CommonJS",
+        "target": "ES2018",
+        "strict": false,
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "declaration": true,
+        "outDir": "dist/",
+        "rootDir": "src/"
+    }
+}
